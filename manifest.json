@@ -1,0 +1,16 @@
+manifest.json
+{
+  "manifest_version": 2,
+  "name": "Thumbs down killer",
+  "version": "1.0",
+  "description": "Blow out thumbs down reaction on GitHub",
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "https://github.com/"
+  ],
+  "icons" : {
+    "128": "icon.png"
+  }
+}
