@@ -16,7 +16,7 @@
     {
       "matches": ["https://github.com/*"],
       "js": [
-      "script/main.js"
+      "scripts/main.js"
       ]
     }
   ]
