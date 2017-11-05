@@ -1,3 +1,2 @@
-//alert('GITHUB');
-var element = document.querySelector('button[target="_blank"]');
+var element = document.querySelector('button[data-reaction-label="-1"]');
 element.parentNode.removeChild(element);
